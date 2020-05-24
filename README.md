@@ -1,2 +1,2 @@
 # facedetector
-This is basic openCV face detectorcode.
+This is basic openCV face detector code.
